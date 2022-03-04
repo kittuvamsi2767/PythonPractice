@@ -1,6 +1,6 @@
 boto3
 pyspark
-tree
-chef
-ansible
-jenkins
+pandas
+Django
+flask
+numpy
