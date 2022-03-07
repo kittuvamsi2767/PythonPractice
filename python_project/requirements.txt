@@ -1,5 +1,5 @@
-boto3
-pyspark
+boto3==1.21.13
+pyspark==3.0
 pandas
 Django
 flask
